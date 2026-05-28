@@ -15,11 +15,8 @@ I'm passionate about building elegant solutions at the intersection of web devel
 - 🌱 Continuously learning and exploring emerging technologies
 
 ---
-
 ## 🛠️ Tech Stack
-
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +34,7 @@ I'm passionate about building elegant solutions at the intersection of web devel
 
 - 🔬 Exploring machine learning models and data analysis techniques
 - 🌐 Building responsive, user-friendly web applications
-- 📚 Enhancing my portfolio with data science projects
+- 📚 Enhancing my portfolio with clean real world projects
 - 🤝 Contributing to meaningful open-source projects
 
 ---
@@ -81,6 +78,6 @@ Feel free to reach out if you'd like to work together or just chat about tech!
 
 <div align="center">
 
-**Made with ❤️ by Gideon**
+**Made with ❤️ by ogidibron**
 
 </div>
