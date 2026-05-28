@@ -17,6 +17,7 @@ I'm passionate about building elegant solutions at the intersection of web devel
 ---
 ## 🛠️ Tech Stack
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,25 +48,7 @@ I'm passionate about building elegant solutions at the intersection of web devel
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogidibron&theme=nord&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogidibron&layout=compact&theme=nord&hide_border=true)
-
----
-
-## 🔗 Let's Connect
-
-- 💼 [LinkedIn](#) — Connect with me professionally
-- 🐦 [Twitter](#) — Follow for insights and updates
-- 📧 **Email**: [contact@example.com](mailto:contact@example.com)
-- 🌐 **Portfolio**: [View My Work](#)
-
----
-
 ## 💬 Open to Opportunities
-
 I'm always interested in:
 - Collaborative web development projects
 - Data science opportunities and learning
